@@ -21,6 +21,11 @@ This project is a Stopwatch Web Application built using HTML, CSS, and JavaScrip
 - CSS: For styling the application to make it visually appealing.
 - JavaScript: For implementing the functionality of the stopwatch.
 
+## link of the pproject
+
+https://github.com/sravanthi-27/PRODIGY_WD_02
+
+
 ## screenshot of website
 
 ![Screenshot 2024-05-23 093608](https://github.com/sravanthi-27/PRODIGY_WD_02/assets/170450054/0214aa69-2fac-4673-894c-240284ad5c24)
